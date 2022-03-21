@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Colors.blueAccent,
+        backgroundColor: Colors.deepPurple,
         title: Text("All List"),
         leading: Icon(Icons.sticky_note_2),
         actions: <Widget>[
